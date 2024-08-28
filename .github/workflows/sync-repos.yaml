@@ -1,0 +1,27 @@
+name: Upload new release
+
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: write
+
+jobs:
+  dispatch:
+    strategy:
+      matrix:
+        repo: 
+          - "logzio/logzio-k8s"
+          - "logzio/logzio-logback-appender"
+          - "logzio/logzio-logstash"
+          - "logzio/logzio-logback-appender"
+          - "logzio/logzio-log4j2-appender"
+
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          repository: ${{ matrix.repo }}
+          event-type: sync-github-templates

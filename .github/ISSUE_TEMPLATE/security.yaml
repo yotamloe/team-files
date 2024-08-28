@@ -1,6 +1,5 @@
 name: Security issue
 description: Report a security issue
-labels: ["security"]
 body:
   - type: textarea
     attributes:
