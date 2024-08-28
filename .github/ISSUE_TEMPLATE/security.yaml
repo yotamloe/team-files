@@ -1,4 +1,4 @@
-name: Feature request
+name: Security issue
 description: Report a security issue
 labels: ["security"]
 body:
