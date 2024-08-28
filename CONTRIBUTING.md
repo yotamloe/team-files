@@ -15,7 +15,7 @@ Please make sure to read the relevant section before making your contribution.
 
 ## I Have a Question
 > [!IMPORTANT]
-> If you want to ask a question, please take a moment to review the available [Documentation](../README.md).
+> If you want to ask a question, please take a moment to review the available [Documentation](../../README.md).
 
 For the quickest assistance, please contact the Logz.io Support team using the chat icon located in the bottom-right corner of your Logz.io account.
 
@@ -53,7 +53,7 @@ Or if you prefer, you can [open an issue on GitHub](../../issues/), and our team
 ### Improving The Documentation
 You can either:
 1. Reach out to Logz.io Support team using the chat icon located in the bottom-right corner of your Logz.io account.
-2. [Open an issue on GitHub](../../issues/new), and our team will address it as soon as possible.
+2. [Open an issue on GitHub](../../issues/), and our team will address it as soon as possible.
 3. Open a PR with the needed changes.
    - Checkout a new branch following the naming convention: `doc/<topic>`.
    - Make your changes.
