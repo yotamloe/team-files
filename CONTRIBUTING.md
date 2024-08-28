@@ -19,7 +19,7 @@ Please make sure to read the relevant section before making your contribution.
 
 For the quickest assistance, please contact the Logz.io Support team using the chat icon located in the bottom-right corner of your Logz.io account.
 
-If you prefer, you can [open an issue on GitHub](../issues/new), and our team will get back to you as soon as possible.
+If you prefer, you can [open an issue on GitHub](/issues/new), and our team will get back to you as soon as possible.
 
 
 ## I Want To Contribute
@@ -36,12 +36,12 @@ Reporting bugs and submitting feature requests are important contributions.
 
 You can either reach out to Logz.io Support team using the chat icon located in the bottom-right corner of your Logz.io account.
 
-Or if you prefer, you can [open an issue on GitHub](../issues/new), and our team will address it as soon as possible.
+Or if you prefer, you can [open an issue on GitHub](/issues/new), and our team will address it as soon as possible.
 
 ### Suggesting Enhancements
 You can either reach out to Logz.io Support team using the chat icon located in the bottom-right corner of your Logz.io account.
 
-Or if you prefer, you can [open an issue on GitHub](../issues/new), and our team will address it as soon as possible.
+Or if you prefer, you can [open an issue on GitHub]./issues/new), and our team will address it as soon as possible.
 
 
 ### Code Contributions
@@ -53,7 +53,7 @@ Or if you prefer, you can [open an issue on GitHub](../issues/new), and our team
 ### Improving The Documentation
 You can either:
 1. Reach out to Logz.io Support team using the chat icon located in the bottom-right corner of your Logz.io account.
-2. [Open an issue on GitHub](../issues/new), and our team will address it as soon as possible.
+2. [Open an issue on GitHub](/issues/new), and our team will address it as soon as possible.
 3. Open a PR with the needed changes.
    - Checkout a new branch following the naming convention: `doc/<topic>`.
    - Make your changes.
